@@ -17,4 +17,17 @@ Unlike first-order logic, propositional logic does not deal with non-logical obj
 ## Part3 Uncertain Inference and Bayesian Networks
 Exact inference
 
+Rejection sampling
+
+Likelihood weighting
+
+Gibbs sampling
+
+## Part4 Learning
+Decision Tree
+
+Linear classifiers
+
+Neural networks
+
 
